@@ -10,7 +10,7 @@ from botocore.exceptions import ClientError
 
 # Setting env
 envs = {
-    "799658447888": "YAMAZAKI's AWS Account"
+    "799658447888": "YMZ's AWS Account"
 }
 
 # log group mapping
