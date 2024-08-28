@@ -1,1 +1,3 @@
-# lambda func codes repos
+# lambda func codes repos  
+
+# otameshi add 002
